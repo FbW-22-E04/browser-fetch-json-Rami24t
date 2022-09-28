@@ -66,3 +66,5 @@ const recipes = {
     }
     ],
 };
+
+export default JSON.stringify(recipes);
